@@ -12,3 +12,4 @@ ABC stash demo
 Doing remote change from GitHug UI
 Hello
 Commiting for JIRA
+Commit
